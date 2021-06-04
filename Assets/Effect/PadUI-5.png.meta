@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: c64fe2b0fc156d64f9f45cefa7d4829a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8094449774713344102
+    second: PadUI-5_0
+  - first:
+      213: 2474065001895370676
+    second: PadUI-5_1
+  - first:
+      213: -501646013948687817
+    second: PadUI-5_2
+  - first:
+      213: -8260324593535652458
+    second: PadUI-5_3
+  - first:
+      213: -3184437697547534427
+    second: PadUI-5_4
+  - first:
+      213: 7148042040993272392
+    second: PadUI-5_5
+  - first:
+      213: 2250173575567848949
+    second: PadUI-5_6
+  - first:
+      213: -4774077308687924784
+    second: PadUI-5_7
+  - first:
+      213: -1096450240950795984
+    second: PadUI-5_8
+  - first:
+      213: 6797415117667512109
+    second: PadUI-5_9
+  - first:
+      213: 1674649051228457437
+    second: PadUI-5_10
+  - first:
+      213: 6561317871300805917
+    second: PadUI-5_11
+  - first:
+      213: -5483456981820317500
+    second: PadUI-5_12
+  - first:
+      213: 8373741591801410356
+    second: PadUI-5_13
+  - first:
+      213: 6719924740995485933
+    second: PadUI-5_14
+  - first:
+      213: -4544221519070861983
+    second: PadUI-5_15
+  - first:
+      213: -977484562115878962
+    second: PadUI-5_16
+  - first:
+      213: -2063336372055194659
+    second: PadUI-5_17
+  - first:
+      213: 558727664054317502
+    second: PadUI-5_18
+  - first:
+      213: 2140302907485585489
+    second: PadUI-5_19
+  - first:
+      213: -411710948216972561
+    second: PadUI-5_20
+  - first:
+      213: 1000158610779865506
+    second: PadUI-5_21
+  - first:
+      213: -4406020046371655607
+    second: PadUI-5_22
+  - first:
+      213: 8593082214042979147
+    second: PadUI-5_23
+  - first:
+      213: -364315570695724270
+    second: PadUI-5_24
+  - first:
+      213: -378809892828377238
+    second: PadUI-5_25
+  - first:
+      213: 1428867530069228223
+    second: PadUI-5_26
+  - first:
+      213: 5620174000382400806
+    second: PadUI-5_27
+  - first:
+      213: -2121143402840190021
+    second: PadUI-5_28
+  - first:
+      213: 4595729195646055646
+    second: PadUI-5_29
+  - first:
+      213: -8666434665667605689
+    second: PadUI-5_30
+  - first:
+      213: -3423138095063119791
+    second: PadUI-5_31
+  - first:
+      213: -7653335826262871574
+    second: PadUI-5_32
+  - first:
+      213: -2082153936940109401
+    second: PadUI-5_33
+  - first:
+      213: -8509067134582116576
+    second: PadUI-5_34
+  - first:
+      213: -4111741989115848140
+    second: PadUI-5_35
+  - first:
+      213: 1966585577316409792
+    second: PadUI-5_36
+  - first:
+      213: -7553626815437644024
+    second: PadUI-5_37
+  - first:
+      213: 6118707704179619607
+    second: PadUI-5_38
+  - first:
+      213: -7603058432224397361
+    second: PadUI-5_39
+  - first:
+      213: -9184097134646219205
+    second: PadUI-5_40
+  - first:
+      213: -497147972466171170
+    second: PadUI-5_41
+  - first:
+      213: 6620354458952347692
+    second: PadUI-5_42
+  - first:
+      213: -936186379943169029
+    second: PadUI-5_43
+  - first:
+      213: 3622094568037257604
+    second: PadUI-5_44
+  - first:
+      213: 4860839274862294184
+    second: PadUI-5_45
+  - first:
+      213: 5780908114563189081
+    second: PadUI-5_46
+  - first:
+      213: 5192421082201598120
+    second: PadUI-5_47
+  - first:
+      213: -5976937719337159481
+    second: PadUI-5_48
+  - first:
+      213: -7013838146252209541
+    second: PadUI-5_49
+  - first:
+      213: 6802364775689502092
+    second: PadUI-5_50
+  - first:
+      213: 3855478638714762439
+    second: PadUI-5_51
+  - first:
+      213: 2686710483158083924
+    second: PadUI-5_52
+  - first:
+      213: -5397498808497115276
+    second: PadUI-5_53
+  - first:
+      213: -6945069728938536360
+    second: PadUI-5_54
+  - first:
+      213: 9000552130353044794
+    second: PadUI-5_55
+  - first:
+      213: 3351004517532315595
+    second: PadUI-5_56
+  - first:
+      213: 3457074419765829512
+    second: PadUI-5_57
+  - first:
+      213: -4974835013873341253
+    second: PadUI-5_58
+  - first:
+      213: -3396761512059893723
+    second: PadUI-5_59
+  - first:
+      213: 9172817443679412844
+    second: PadUI-5_60
+  - first:
+      213: -4769414993386748969
+    second: PadUI-5_61
+  - first:
+      213: -3127025642411712840
+    second: PadUI-5_62
+  - first:
+      213: 4574741008043931940
+    second: PadUI-5_63
+  - first:
+      213: -3317112680046893657
+    second: PadUI-5_64
+  - first:
+      213: -4395450811511518537
+    second: PadUI-5_65
+  - first:
+      213: 8721955180870931116
+    second: PadUI-5_66
+  - first:
+      213: 8352378445080580188
+    second: PadUI-5_67
+  - first:
+      213: 4395308290411910879
+    second: PadUI-5_68
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PadUI-5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 964
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248a5d5e8d2f0f849a439ba18ab05606
+      internalID: -8094449774713344102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 339
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaa683e8a634fb4b9ea1b29f74fd588
+      internalID: 2474065001895370676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef51ab08fd0d9644a0b479577930592
+      internalID: -501646013948687817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7ce9ce6e8ff4d4aa224ef019e820ac
+      internalID: -8260324593535652458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4294c8c7d82468a47a6f9e08c412065b
+      internalID: -3184437697547534427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb15bda7d34170429713c47192e7b1c
+      internalID: 7148042040993272392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc268d610d7794697a771db741ca96
+      internalID: 2250173575567848949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f033363255a2142a47f39240a01674
+      internalID: -4774077308687924784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a83a92bc43d244f89236c36defd6f9
+      internalID: -1096450240950795984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aae3f601765eb9418bbc443c1f90342
+      internalID: 6797415117667512109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2430f7c11cf4bf46885d4c761864dce
+      internalID: 1674649051228457437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 339
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe60b24be6480478009f53932216fc
+      internalID: 6561317871300805917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efbebbec5f49034b9c84961e6134074
+      internalID: -5483456981820317500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc5ee0fcaf3414db3fdc5f0d625418
+      internalID: 8373741591801410356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 339
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7092c83c1efa743a010ee2ecc59678
+      internalID: 6719924740995485933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 340
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e3e0b6fba74764cb8f8ff57587f2b4
+      internalID: -4544221519070861983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 341
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774eae134e519c9468967e8d8706808f
+      internalID: -977484562115878962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 344
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2333c71e464b0e34a8c76838eb258c67
+      internalID: -2063336372055194659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 347
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e749034ecc06a3f44a94f4e95110badb
+      internalID: 558727664054317502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 352
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dea366c5443a9048a9bdb3b64649a83
+      internalID: 2140302907485585489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 357
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9257385c6e2d7dd4bb42b035a80a2a1e
+      internalID: -411710948216972561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 363
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807f3576fa320d44a16120236e4ad63
+      internalID: 1000158610779865506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 960
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f005f9e27d9254b820e92552461df5
+      internalID: -4406020046371655607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 315
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d14557f6133ce49be49cba3611429d
+      internalID: 8593082214042979147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 254
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f7f34e5ef79734b99e7b4424bed064
+      internalID: -364315570695724270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 253
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f108aee640c85494a9cd62fe059cecad
+      internalID: -378809892828377238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 254
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd120c8d832784f89e5bbdaeb8c3b4
+      internalID: 1428867530069228223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 264
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5ae64e4d69e7488fd6cb314589492
+      internalID: 5620174000382400806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_28
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 265
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e588b9d58b523bd4c8a94d8af6cc8d2b
+      internalID: -2121143402840190021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_29
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 258
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef699d94e2c5db46b57e987433a6cfd
+      internalID: 4595729195646055646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_30
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 257
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e74fe0eecf29404ea3e32faf676c855
+      internalID: -8666434665667605689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_31
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 51
+        width: 119
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ad6ba4b6d87b4aa812d432750adfe
+      internalID: -3423138095063119791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342080f279b3c0749a5287f4b023ef1a
+      internalID: -7653335826262871574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 206
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ace79a06779bc147b4920615d42fef2
+      internalID: -2082153936940109401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 206
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b39a7f95664845b891df1cc1d63f7
+      internalID: -8509067134582116576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 206
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb4c76c0ba51a4fb6c6de5fd8761c3
+      internalID: -4111741989115848140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 181
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366b61edfded5524186c6c56621b83e4
+      internalID: 1966585577316409792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 181
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23cb1945fb178b4ca5172ea774e65da
+      internalID: -7553626815437644024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_38
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 191
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60e3cb8fd6179f479e56c5375d19e46
+      internalID: 6118707704179619607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_39
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 183
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48486c75f329d41439180fcc46dbf5c5
+      internalID: -7603058432224397361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_40
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 190
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77d5b85cd8ed7499a3aab1226e6731
+      internalID: -9184097134646219205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_41
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 190
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d2057b6e3c2c647b796f1f1409ac6a
+      internalID: -497147972466171170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_42
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 190
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deef7ae35ff1642418b603ecd8df8602
+      internalID: 6620354458952347692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_43
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 137
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7345f4b8993821f488cf61201da6f968
+      internalID: -936186379943169029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 138
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cc528a9b6a83644938f8727b897e10
+      internalID: 3622094568037257604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 121
+        width: 153
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf08cbbed900a47b070ec37f4f2546
+      internalID: 4860839274862294184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 251
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10b15325a715ec428681112130d30b9
+      internalID: 5780908114563189081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 125
+        width: 188
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723e06be473c2c488e1df7f333df0ff
+      internalID: 5192421082201598120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_52
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 128
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6012402d53ea4478b4664073dacf8d
+      internalID: 2686710483158083924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_53
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 128
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecbf179f1c1a4141945d0ad5e2abb1d
+      internalID: -5397498808497115276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 68
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372e7efc5313274e827c4379721b33d
+      internalID: -6945069728938536360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 68
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e8068b96b40ba418f73171a29fdf15
+      internalID: 9000552130353044794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 68
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1865ecfc7a9a0ca44b27b654dffd6622
+      internalID: 3351004517532315595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 68
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e95c9263986f644b2010f5b3e67c79
+      internalID: 3457074419765829512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef57e7168a890a498f93e5baea6d495
+      internalID: -4974835013873341253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 68
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ba346e2c882e148be52bde2e1607a1
+      internalID: -3396761512059893723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 68
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e099851bf9dc7048af5665a54a3f9a0
+      internalID: 9172817443679412844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 68
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dedd5f78d6020c448f5e42b80aeabcd
+      internalID: -4769414993386748969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 68
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b43023372f4c9418f31909d390d1df
+      internalID: -3127025642411712840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_63
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 68
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893cb8d01f980424f81318e8cb431f8e
+      internalID: 4574741008043931940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_64
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 67
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5468d35df367a574fa86c0ab7ad58607
+      internalID: -3317112680046893657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_65
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 67
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a2ee570038e6b42969077ed624e311
+      internalID: -4395450811511518537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_66
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 66
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271af691ed54fe347b2a425f749d657e
+      internalID: 8721955180870931116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_67
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 66
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312fe3dcb5a493640ae80aea55e03e95
+      internalID: 8352378445080580188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PadUI-5_68
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 67
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b901cd2521170047a72d93d370fea94
+      internalID: 4395308290411910879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

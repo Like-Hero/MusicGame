@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: Type_2_KoreographyTrack
+  m_EditorClassIdentifier: 
+  mEventID: CreatArrowTrack
+  mEventList:
+  - mStartSample: 44100
+    mEndSample: 44100
+  - mStartSample: 66150
+    mEndSample: 66150
+  - mStartSample: 80850
+    mEndSample: 80850
+  - mStartSample: 124950
+    mEndSample: 124950
+  - mStartSample: 132300
+    mEndSample: 132300
+  - mStartSample: 147000
+    mEndSample: 147000
+  - mStartSample: 198450
+    mEndSample: 198450
+  - mStartSample: 213150
+    mEndSample: 213150
+  - mStartSample: 235200
+    mEndSample: 235200
+  - mStartSample: 264600
+    mEndSample: 264600
+  - mStartSample: 316050
+    mEndSample: 316050
+  - mStartSample: 338100
+    mEndSample: 338100
+  - mStartSample: 382200
+    mEndSample: 382200
+  - mStartSample: 396900
+    mEndSample: 396900
+  - mStartSample: 433650
+    mEndSample: 433650
+  - mStartSample: 470400
+    mEndSample: 470400
+  - mStartSample: 499800
+    mEndSample: 499800
+  - mStartSample: 536550
+    mEndSample: 536550
+  - mStartSample: 551250
+    mEndSample: 551250
+  - mStartSample: 588000
+    mEndSample: 588000
+  - mStartSample: 602700
+    mEndSample: 602700
+  - mStartSample: 639450
+    mEndSample: 639450
+  - mStartSample: 654150
+    mEndSample: 654150
+  - mStartSample: 698250
+    mEndSample: 698250
+  - mStartSample: 705600
+    mEndSample: 705600
+  - mStartSample: 742350
+    mEndSample: 742350
+  - mStartSample: 771750
+    mEndSample: 771750
+  - mStartSample: 808500
+    mEndSample: 808500
+  - mStartSample: 823200
+    mEndSample: 823200
+  - mStartSample: 874650
+    mEndSample: 874650
+  - mStartSample: 911400
+    mEndSample: 911400
+  - mStartSample: 926100
+    mEndSample: 926100
+  - mStartSample: 977550
+    mEndSample: 977550
+  - mStartSample: 1006950
+    mEndSample: 1006950
+  - mStartSample: 1043700
+    mEndSample: 1043700
+  - mStartSample: 1051050
+    mEndSample: 1051050
+  - mStartSample: 1058400
+    mEndSample: 1058400
+  - mStartSample: 1065750
+    mEndSample: 1065750
+  - mStartSample: 1073100
+    mEndSample: 1073100
+  - mStartSample: 1102500
+    mEndSample: 1102500
+  - mStartSample: 1131900
+    mEndSample: 1131900
+  - mStartSample: 1161300
+    mEndSample: 1161300
+  - mStartSample: 1183350
+    mEndSample: 1183350
+  - mStartSample: 1212750
+    mEndSample: 1212750
+  - mStartSample: 1242150
+    mEndSample: 1242150
+  - mStartSample: 1249500
+    mEndSample: 1249500
+  - mStartSample: 1264200
+    mEndSample: 1264200
+  - mStartSample: 1293600
+    mEndSample: 1293600
+  - mStartSample: 1315650
+    mEndSample: 1315650
+  - mStartSample: 1352400
+    mEndSample: 1352400
+  - mStartSample: 1403850
+    mEndSample: 1403850
+  - mStartSample: 1425900
+    mEndSample: 1425900
+  - mStartSample: 1470000
+    mEndSample: 1470000
+  - mStartSample: 1484700
+    mEndSample: 1484700
+  - mStartSample: 1514100
+    mEndSample: 1514100
+  - mStartSample: 1536150
+    mEndSample: 1536150
+  - mStartSample: 1565550
+    mEndSample: 1565550
+  - mStartSample: 1602300
+    mEndSample: 1602300
+  - mStartSample: 1624350
+    mEndSample: 1624350
+  - mStartSample: 1646400
+    mEndSample: 1646400
+  - mStartSample: 1668450
+    mEndSample: 1668450
+  - mStartSample: 1705200
+    mEndSample: 1705200
+  - mStartSample: 1741950
+    mEndSample: 1741950
+  - mStartSample: 1756650
+    mEndSample: 1756650
+  - mStartSample: 1778700
+    mEndSample: 1778700
+  - mStartSample: 1822800
+    mEndSample: 1822800
+  - mStartSample: 1844850
+    mEndSample: 1844850
+  - mStartSample: 1866900
+    mEndSample: 1866900
+  - mStartSample: 1911000
+    mEndSample: 1911000
+  - mStartSample: 1940400
+    mEndSample: 1940400
+  - mStartSample: 1977150
+    mEndSample: 1977150
+  - mStartSample: 1991850
+    mEndSample: 1991850
+  - mStartSample: 2028600
+    mEndSample: 2028600
+  - mStartSample: 2043300
+    mEndSample: 2043300
+  - mStartSample: 2050650
+    mEndSample: 2050650
+  - mStartSample: 2058000
+    mEndSample: 2058000
+  - mStartSample: 2080050
+    mEndSample: 2080050
+  - mStartSample: 2087400
+    mEndSample: 2087400
+  _SerializedPayloadTypes: []
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 
